@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Rpg-Map-Generator
 # Rpg-Map-Generator
 # Rpg-Map-Generator
+# Rpg-Map-Generator
