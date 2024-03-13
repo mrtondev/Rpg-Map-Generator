@@ -10,6 +10,7 @@ function App() {
           <h1> Rpg Map generator </h1>
 
           <div className='content'>
+            <h1>ola</h1>
 
           </div>
         </div>
