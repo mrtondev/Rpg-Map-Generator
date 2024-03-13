@@ -21,9 +21,11 @@ h1{
   /* background-color: brown; */
   padding-left: 5%;
   
+  
 }
 
 button{
-  display: flex;
-  align-items: center;
+  width: 150px;
+  height: 50px;
+  -webkit-text-stroke: 0.6px  rgb(202, 214, 27);
 }
