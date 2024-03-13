@@ -11,6 +11,7 @@ function App() {
 
           <div className='content'>
             
+            <button> Gerar mapa</button>
 
           </div>
         </div>
