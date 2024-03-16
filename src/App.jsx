@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import './generaeMap'
 import './App.css'
 
 function App() {
@@ -12,6 +13,10 @@ function App() {
           <div className='content'>
             
             <button> Gerar mapa</button>
+
+            <div className='generateMap'>
+             
+            </div>
 
           </div>
         </div>
