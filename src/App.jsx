@@ -1,6 +1,7 @@
 import { useState } from 'react'
-import './generaeMap'
+import './generateMap'
 import './App.css'
+import {map} from './generateMap'
 
 function App() {
 
