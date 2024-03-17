@@ -10,11 +10,8 @@ function criador(){
     let direcao = Math.floor(Math.random() * direcoes.length)
 
      while (direcao <= 3){
-
           let nomes = Math.floor(Math.random() * places.length)
-
           console.log(`${direcoes[direcao]}  ${places[nomes]}`)   
-          
           direcao++
      }
     
