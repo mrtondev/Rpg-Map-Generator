@@ -26,7 +26,7 @@ h1{
 }
 
 button{
-  position: fixed;
+  position: absolute;
   left: 20%;
   width: 150px;
   height: 50px;
@@ -41,3 +41,4 @@ button{
   height: 80vh;
   /* background-color: aquamarine; */
 }
+

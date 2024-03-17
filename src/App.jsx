@@ -1,7 +1,6 @@
-import { useState } from 'react'
-import './generateMap'
+// import { useState } from 'react'
 import './App.css'
-import './generateMap'
+import criador from './generateMap'
 
 function App() {
 
@@ -13,7 +12,7 @@ function App() {
 
           <div className='content'>
             
-            <button onClick={() => map()} > Gerar mapa</button>
+            <button onClick={criador}> Gerar mapa  </button>
 
             <div className='generateMap'>
               
