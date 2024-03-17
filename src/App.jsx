@@ -16,7 +16,8 @@ function App() {
             <button> Gerar mapa</button>
 
             <div className='generateMap'>
-             
+              ('/map')
+              
             </div>
 
           </div>
