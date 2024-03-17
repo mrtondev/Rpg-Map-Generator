@@ -15,7 +15,8 @@ function App() {
             <button onClick={criador}> Gerar mapa  </button>
 
             <div className='generateMap'>
-              
+              {`${criador}`}
+            
 
             </div>
 
