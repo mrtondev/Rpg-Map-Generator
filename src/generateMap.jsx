@@ -7,12 +7,16 @@ function criador(){
      const places = ['Floresta', 'Cidade','Neve', 'Dungeon','Deserto','Praia']
     alert('chamada ok');
 
-    let direcao = Math.floor(Math.random() * direcoes.length)
+     
 
-     while (direcao <= 3){
+     // let direcao = Math.floor(Math.random() * direcoes.length)
+
+     let lado = 0
+
+     while ( lado <= 3 , direcoes[lado] && places[lado] ){
           let nomes = Math.floor(Math.random() * places.length)
-          console.log(`${direcoes[direcao]}  ${places[nomes]}`)   
-          direcao++
+          console.log(`${direcoes[lado]}  ${places[nomes]}`)   
+          lado++
      }
     
     
