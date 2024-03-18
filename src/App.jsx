@@ -1,5 +1,6 @@
 // import { useState } from 'react'
 import './App.css'
+import './generateMap.css'
 import criador from './generateMap'
 
 function App() {
@@ -15,8 +16,7 @@ function App() {
             <button onClick={criador}> Gerar mapa  </button>
 
             <div className='generateMap'>
-              {`${criador}`}
-            
+              {criador.exibidor}
 
             </div>
 

@@ -38,12 +38,11 @@ button{
   -webkit-text-stroke: 0.6px  rgb(202, 214, 27);
 }
 
-.generateMap{
-  align-items: center;
-  justify-content: center;
-  margin-left: 25vw;
-  width: 60vw;
-  height: 80vh;
-  /* background-color: aquamarine; */
-}
 
+.exibidor{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: aliceblue;
+  font-size: 300%;
+}
