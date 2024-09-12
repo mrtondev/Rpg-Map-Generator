@@ -33,7 +33,7 @@ function criador() {
  }
  
  // Chamada da função
-  criador();
+ // criador();
  
 
 export default criador;
